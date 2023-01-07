@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(179, 173, 216);
+}
+img {
+    border: 5px solid rgba(207, 205, 205, 0.938);
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+div {
+    background-color: rgb(179, 173, 216);
+    border: 5px solid rgba(207, 205, 205, 0.938);
+    border-radius: 8px;
+}
+hr {
+    border: 3px solid rgba(207, 205, 205, 0.938);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: rgb(50, 6, 95);
+    
+}
+h2 {
+    text-indent: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(50, 6, 95);
+}
+h3 {
+    text-indent: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(50, 6, 95);
+}
+p {
+    text-indent: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(41, 41, 41, 0.897);
+}
+a:link {
+    color: rgba(86, 127, 230, 0.947);
+}
+a:hover {
+    color: rgba(255, 255, 255, 0.947);
+}
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(41, 41, 41, 0.897);
+}
